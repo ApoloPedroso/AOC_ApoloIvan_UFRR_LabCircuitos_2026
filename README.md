@@ -8,7 +8,7 @@ Parte 2:
 parte2_cabeada.circ: Arquitetura Mips de 8 bits com a unidade de controle cabeada.  
 parte2_microprogramada.circ: Arquitetura Mips de 8 bits com a unidade de controle microprogramada.  
 microcodigo.txt: Microcódigo da memória ROM da unidade de controle microprogramda.  
-tabela_tempo.pdf: Tabela com o dos sinais e o cálculo da CPI média.  
+tabela_tempo.pdf: Tabela com o tempo dos sinais e o cálculo da CPI média.  
 evidencias/: pastas com pdf todos os testes.
   
   Componentes da parte 2 e onde se encontram:  
