@@ -2,7 +2,8 @@
 Disciplina: Arquitetura e Organização de Computadores  
 Semestre: 2026.2  
 Aluno1: Apolo Matos Pedroso 2023010520  
-Aluno2: Ivan Medina Maia 2019017098
+Aluno2: Ivan Medina Maia 2019017098  
+Software usado: Logisim versão 5.0
 
 Parte 2:  
 parte2_cabeada.circ: Arquitetura Mips de 8 bits com a unidade de controle cabeada.  
